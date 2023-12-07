@@ -1,0 +1,27 @@
+# config.yml
+video_path: "/home/q/Desktop/OpenCV/five/1.avi"
+light_color: "red"
+
+light_min_area: 400.0                       # 灯条最小面积
+light_max_angle: 15.0                       # 灯条最大角度
+light_max_ratio: 4.0                        # 灯条最大高宽比
+light_min_ratio: 1.5                        # 灯条最小高宽比
+light_contour_min_solidity: 0.5             # 灯条最小实心程度
+light_extend_ratio: 1.2                     # 灯条扩大倍数
+
+lights_angle_differ: 10.0                   # 灯条最大角度差
+lights_height_diff_ratio: 0.1               # 灯条最大高度差比率
+lights_max_y_diff_ratio: 0.20               # 灯条最大y差比率
+lights_min_x_diff_ratio: 0.9                # 灯条最小x差比率
+
+armor_max_ratio: 2.5                        # 装甲板最大比率
+armor_min_ratio: 0.9                        # 装甲板最小比率
+armor_angle_limit: 40.0                     # 装甲板最大偏转
+
+
+
+
+
+ 
+
+
