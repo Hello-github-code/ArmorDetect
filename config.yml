@@ -1,5 +1,5 @@
 # config.yml
-video_path: "/home/q/Desktop/OpenCV/five/1.avi"
+video_path: "/home/q/Desktop/OpenCV/five/1.avi"  #需要自己改写
 light_color: "red"
 
 light_min_area: 400.0                       # 灯条最小面积
