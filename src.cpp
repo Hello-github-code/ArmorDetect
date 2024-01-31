@@ -65,7 +65,7 @@ RotatedRect getCombinedRect(const LightInfo& light1, const LightInfo& light2) {
 
 int main() {
 
-    YAML::Node config = YAML::LoadFile("/home/q/Desktop/OpenCV/five/config.yml");
+    YAML::Node config = YAML::LoadFile("../config.yml");
     string videoPath = config["video_path"].as<string>(); // 视频路径
     string lightColor = config["light_color"].as<string>(); // 识别颜色
 
