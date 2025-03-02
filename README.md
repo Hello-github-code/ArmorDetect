@@ -1,2 +1,2 @@
 # ArmorDetect
-just a simple armor-detect program.
+Just a simple armor-detect program for RoboMaster practice.
